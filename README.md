@@ -4,4 +4,5 @@
 # convolutional Neural networks with same number of layers and epochs is: 98.27
 
 #
-#ON CHANGING LAYER 
+ON INCREASING LAYERS OF CONVOLUTIONAL NEURAL NETWORKS
+# testing accuracy changes from 98.27 to 
